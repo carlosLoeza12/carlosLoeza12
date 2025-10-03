@@ -1,6 +1,6 @@
 ## Hí! 🌐, I am Carlos Loeza👋🤖
 
-<img width="700" height="500" alt="unnamed" src="https://github.com/user-attachments/assets/3c6b6c71-2dcd-45e5-b9ee-f78509533397" />
+<img width="1000" height="800" alt="unnamed" src="https://github.com/user-attachments/assets/3c6b6c71-2dcd-45e5-b9ee-f78509533397" />
 
 ![Static Badge](https://img.shields.io/badge/Kotlin-green)
 ![Static Badge](https://img.shields.io/badge/Jetpack%20Compose-white)
@@ -27,7 +27,9 @@ I'm self-taught and passionate about developing Android mobile apps. Creating so
   
 <p>
 
-![Static Badge](https://img.shields.io/badge/%20See%20Code-green?link=https%3A%2F%2Fgithub.com%2FcarlosLoeza12%2FRickAndMorty%3Ftab%3Dreadme-ov-file)
+ <a href="https://github.com/carlosLoeza12/RickAndMorty?tab=readme-ov-file">
+        <img src="https://img.shields.io/badge/See%20Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="See Code Badge">
+      </a>
 
 </p>
 <p>This is an application of the rick and morty series, you will have the option to log in with your gmail account, see the information of the character and his details, save your favorites locally,
@@ -43,7 +45,9 @@ see gmail account information..</p>
 
 <p>
 
-![Static Badge](https://img.shields.io/badge/%20See%20Code-green?link=https%3A%2F%2Fgithub.com%2FcarlosLoeza12%2FFinderApp)
+<a href="https://github.com/carlosLoeza12/FinderApp">
+        <img src="https://img.shields.io/badge/See%20Code-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="See Code Badge">
+      </a>
 
 </p>
 </p>Find nearby places, restaurants, hotels, shops... 
